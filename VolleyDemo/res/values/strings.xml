@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="contentDesc"></string>
+    <string name="click_me">Click Me!!!</string>
+    <string name="image_loading">ImageLoading</string>
+    <string name="json_request">JSONObjectRequest</string>
+    <string name="string_request">StringObjectRequest</string>
+    <string name="gson_request">GSON Request</string>
+    <string name="ssl_connection">SSL Connection</string>
+</resources>
