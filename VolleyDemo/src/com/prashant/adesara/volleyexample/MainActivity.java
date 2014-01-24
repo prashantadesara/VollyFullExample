@@ -60,7 +60,7 @@ public class MainActivity extends Activity {
         	        ssb.setSpan(new ClickableSpan() {
         	            @Override
         	            public void onClick(View widget) {
-        	            	String url = "https://github.com/smanikandan14/Volley-demo";
+        	            	String url = "https://github.com/prashantadesara/VollyFullExample";
         	            	Intent i = new Intent(Intent.ACTION_VIEW);
         	            	i.setData(Uri.parse(url));
         	            	startActivity(i);      
